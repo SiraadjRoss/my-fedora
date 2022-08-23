@@ -1,5 +1,0 @@
-This is a demo file. This is second line of the file.
-
-Our demo file has been created.
-
-This is the third line.
